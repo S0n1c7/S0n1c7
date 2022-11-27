@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @S0n1c7
 - 👀 I’m interested in programming and engineering
-- 🌱 I’m currently learning how to make discord bots and responsible websites in python
 - 📫 If you hawe any questions, you can DM me on my discord: Sonic7#3520
 
 <!---
