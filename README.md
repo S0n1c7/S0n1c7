@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @S0n1c7
+- 👋 Hi, I’m Chase
 - 👀 I’m interested in programming and engineering
-- 📫 If you hawe any questions, you can DM me on my discord: Sonic7#3520
+- 📫 If you hawe any questions, you can DM me on my discord: miles.chase
 
 <!---
 S0n1c7/S0n1c7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
